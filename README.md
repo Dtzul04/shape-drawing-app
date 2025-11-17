@@ -9,3 +9,6 @@ Develop a shape drawing application where students implement different shapes (e
 
 ### Concepts
 Inheritance, method overriding, polymorphism 
+
+### AI Tools
+I used ChatGPT to help me better understand OOP concepts and to guide me in structuring parts of my JavaScript code for this project.
